@@ -13,7 +13,7 @@ import getpass
 import sys
 import pysftp
 
-cnopts = pysftp.CoOpts()
+cnopts = pysftp.CnOpts()
 cnopts.hostkeys = None
 
 class PysftpClient(object):
