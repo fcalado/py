@@ -1,2 +1,2 @@
 user = 'root'
-passcode = 'A45b84c99@'
+passcode = 'just#an#example'
