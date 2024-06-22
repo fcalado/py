@@ -20,6 +20,6 @@ def split_file(bigFile, rows):
         with open(smallFile, 'w') as outfile:
             outfile.writelines(lines[start:end])
 
-# file = 'customers.csv'
+# file = 'data\customers.csv'
 # rows = 500000
 # split_file(file,rows)
